@@ -1,0 +1,13 @@
+{
+    "name": "xelliya/inmd",
+    "description": "INMD Vendor",
+    "type": "library",
+    "authors": [
+        {
+            "name": "seisyll"
+        }
+    ],
+    "require": {
+        "samayo/bulletproof": "4.0.*"
+    }
+}
